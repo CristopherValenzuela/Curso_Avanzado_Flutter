@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "244696207996",
+    "project_id": "platzitripsflutter-37461",
+    "storage_bucket": "platzitripsflutter-37461.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244696207996:android:d7a1ed1f48820240556ff9",
+        "android_client_info": {
+          "package_name": "com.example.curzo_avanzado_flutter_plat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244696207996-nreho8a6ibmrnjk4h4ki4luq63aelsth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSKNTVv7aTiK4Ui1k5ZjU_6iMlNaqUNec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244696207996-nreho8a6ibmrnjk4h4ki4luq63aelsth.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244696207996-fr6s27kbvcfq3bt2l8nb85iq86cf70o9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.curzoAvanzadoFlutterPlat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
